@@ -14,5 +14,4 @@ wordcloud.generate(text)
 plt.imshow(wordcloud, interpolation='bilinear')
 plt.axis('off')
 wordcloud.to_file('d14.png')
-#plt.show()
-#plt.savefig('d14.png',wid)
+
